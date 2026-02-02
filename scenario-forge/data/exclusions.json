@@ -2,24 +2,12 @@
   {
     "when": [
       {
-        "fieldId": "target",
-        "valueId": "b2c"
-      },
-      {
-        "fieldId": "category",
-        "valueId": "standard_enrollment_partner_pay"
-      }
-    ]
-  },
-  {
-    "when": [
-      {
-        "fieldId": "category",
-        "valueId": "promo_zero_down_payment"
-      },
-      {
         "fieldId": "programinfo_promocode_name",
         "valueId": "none"
+      },
+      {
+        "fieldId": "pricing_fundsource_description",
+        "valueId": "monthly_auto_payment"
       }
     ]
   }
