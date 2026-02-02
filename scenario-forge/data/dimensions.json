@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Target=B2C",
+    "fieldId": "target",
+    "allowedValueIds": [
+      "b2c"
+    ],
+    "baseValueId": "b2c"
+  },
+  {
+    "name": "Target=B2B",
+    "fieldId": "target",
+    "allowedValueIds": [
+      "b2b"
+    ],
+    "baseValueId": "b2b"
+  },
+  {
+    "name": "Payment Method",
+    "fieldId": "pricing_fundsource_description",
+    "allowedValueIds": [
+      "pay_in_full",
+      "monthly_manual_payment",
+      "monthly_auto_payment"
+    ],
+    "baseValueId": "pay_in_full"
+  },
+  {
+    "name": "Campus",
+    "fieldId": "programinfo_campus_name",
+    "allowedValueIds": [
+      "ashworth_college",
+      "ashworth_career_school",
+      "james_madison_high_school",
+      "penn_foster_college"
+    ],
+    "baseValueId": "ashworth_college"
+  },
+  {
+    "name": "Promo Code",
+    "fieldId": "programinfo_promocode_name",
+    "allowedValueIds": [
+      "none",
+      "zero_down_payment"
+    ],
+    "baseValueId": "none"
+  },
+  {
+    "name": "Guarantor Relationship",
+    "fieldId": "guarantorinfo_relationshiptostudent",
+    "allowedValueIds": [
+      "none",
+      "parent",
+      "legal_guardian",
+      "other"
+    ],
+    "baseValueId": "none"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "enrollment",
+    "label": "Enrollment"
+  },
+  {
+    "id": "program_info",
+    "label": "Program Info"
+  },
+  {
+    "id": "basic_info",
+    "label": "Basic Info"
+  },
+  {
+    "id": "high_school",
+    "label": "High School"
+  },
+  {
+    "id": "guarantor",
+    "label": "Guarantor"
+  },
+  {
+    "id": "credit_card",
+    "label": "Credit Card"
+  },
+  {
+    "id": "billing",
+    "label": "Billing"
+  },
+  {
+    "id": "pricing",
+    "label": "Pricing"
+  },
+  {
+    "id": "assertions",
+    "label": "Assertions"
+  }
+]
