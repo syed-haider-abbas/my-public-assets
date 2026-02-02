@@ -1,38 +1,56 @@
 [
   {
     "id": "enrollment",
-    "label": "Enrollment"
+    "name": "Enrollment Config",
+    "description": "Core enrollment settings",
+    "color": "emerald"
   },
   {
     "id": "program_info",
-    "label": "Program Info"
+    "name": "Program Info",
+    "description": "Campus and program details",
+    "color": "blue"
   },
   {
     "id": "basic_info",
-    "label": "Basic Info"
+    "name": "Basic Info",
+    "description": "Student personal details",
+    "color": "indigo"
   },
   {
     "id": "high_school",
-    "label": "High School"
+    "name": "High School",
+    "description": "Previous education attestation",
+    "color": "violet"
   },
   {
     "id": "guarantor",
-    "label": "Guarantor"
+    "name": "Guarantor",
+    "description": "Guarantor details if applicable",
+    "color": "purple"
   },
   {
     "id": "credit_card",
-    "label": "Credit Card"
+    "name": "Credit Card",
+    "description": "Payment method details",
+    "color": "pink"
   },
   {
     "id": "billing",
-    "label": "Billing"
+    "name": "Billing Address",
+    "description": "Billing contact information",
+    "color": "rose"
   },
   {
     "id": "pricing",
-    "label": "Pricing"
+    "name": "Pricing",
+    "description": "Cost and payment plan settings",
+    "color": "orange"
   },
   {
     "id": "assertions",
-    "label": "Assertions"
+    "name": "Assertions",
+    "description": "Expected outcome validation",
+    "color": "slate"
   }
 ]
